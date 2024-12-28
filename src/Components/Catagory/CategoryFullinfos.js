@@ -1,0 +1,23 @@
+export const categoryInfos = [
+    {id:1,
+      title: "Electronics",
+      name: "electronics",
+      imgLink: "https://m.media-amazon.com/images/I/71isMlT3eML._AC_SL1500_.jpg",
+    },
+    {id: 2,
+      title: "Discovery Fashion Trends",
+      name:   "women's clothing",
+      imgLink: "https://m.media-amazon.com/images/I/81vqhjPDCEL._AC_SY741_.jpg",
+    },
+    {id: 3,
+      title: "Men's Clothing",
+      name:   "men's clothing",
+      imgLink: "https://m.media-amazon.com/images/I/61owdlDd7wL._AC_SX569_.jpg",
+    },
+    {id: 4,
+      title: "jewelery",
+      name: "jewelery",
+      imgLink: "https://m.media-amazon.com/images/I/81JknB-O4fL._AC_SY695_.jpg",
+    },
+  ];
+  
